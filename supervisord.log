@@ -1,0 +1,51 @@
+2022-02-17 02:18:16,931 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-02-17 02:18:16,964 INFO supervisord started with pid 52
+2022-02-17 02:18:17,967 INFO spawned: 'octane-start' with pid 53
+2022-02-17 02:18:18,970 INFO success: octane-start entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-02-17 02:18:24,943 INFO exited: octane-start (exit status 1; not expected)
+2022-02-17 02:18:25,947 INFO spawned: 'octane-start' with pid 63
+2022-02-17 02:18:26,949 INFO success: octane-start entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-02-17 02:18:32,320 INFO exited: octane-start (exit status 1; not expected)
+2022-02-17 02:18:33,324 INFO spawned: 'octane-start' with pid 73
+2022-02-17 02:18:34,326 INFO success: octane-start entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-02-17 02:18:41,214 INFO exited: octane-start (exit status 1; not expected)
+2022-02-17 02:18:42,217 INFO spawned: 'octane-start' with pid 83
+2022-02-17 02:18:43,222 INFO success: octane-start entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-02-17 02:18:47,227 WARN received SIGINT indicating exit request
+2022-02-17 02:18:47,228 INFO waiting for octane-start to die
+2022-02-17 02:18:47,232 INFO stopped: octane-start (terminated by SIGTERM)
+2022-02-17 02:26:17,560 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-02-17 02:26:17,633 INFO supervisord started with pid 19
+2022-02-17 02:26:18,636 INFO spawned: 'octane-start' with pid 20
+2022-02-17 02:26:19,638 INFO success: octane-start entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-02-17 02:26:48,468 WARN received SIGINT indicating exit request
+2022-02-17 02:26:48,493 INFO waiting for octane-start to die
+2022-02-17 02:26:48,741 INFO stopped: octane-start (exit status 137)
+2022-02-17 02:26:51,823 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-02-17 02:26:51,828 INFO supervisord started with pid 55
+2022-02-17 02:26:52,831 INFO spawned: 'octane-start' with pid 56
+2022-02-17 02:26:53,833 INFO success: octane-start entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-02-17 02:27:09,719 WARN received SIGINT indicating exit request
+2022-02-17 02:27:09,720 INFO waiting for octane-start to die
+2022-02-17 02:27:09,832 INFO stopped: octane-start (exit status 137)
+2022-02-17 02:27:54,997 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-02-17 02:27:55,002 INFO supervisord started with pid 93
+2022-02-17 02:27:56,005 INFO spawned: 'octane-start' with pid 94
+2022-02-17 02:27:57,007 INFO success: octane-start entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-02-17 02:28:03,477 WARN received SIGINT indicating exit request
+2022-02-17 02:28:03,479 INFO waiting for octane-start to die
+2022-02-17 02:28:03,628 INFO stopped: octane-start (exit status 137)
+2022-02-17 03:31:30,195 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-02-17 03:31:30,253 INFO supervisord started with pid 171
+2022-02-17 03:31:31,689 INFO spawned: 'octane-start' with pid 172
+2022-02-17 03:31:33,016 INFO success: octane-start entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-02-17 03:31:38,174 WARN received SIGINT indicating exit request
+2022-02-17 03:31:38,192 INFO waiting for octane-start to die
+2022-02-17 03:31:38,214 INFO stopped: octane-start (terminated by SIGTERM)
+2022-02-17 04:14:20,298 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-02-17 04:14:20,343 INFO supervisord started with pid 16
+2022-02-17 04:14:21,366 INFO spawned: 'octane-start' with pid 17
+2022-02-17 04:14:22,373 INFO success: octane-start entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-02-17 04:15:23,717 WARN received SIGINT indicating exit request
+2022-02-17 04:15:23,718 INFO waiting for octane-start to die
+2022-02-17 04:15:24,077 INFO stopped: octane-start (exit status 137)
